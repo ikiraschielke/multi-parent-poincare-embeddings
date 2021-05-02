@@ -1,0 +1,27 @@
+* Multi-parent Relations of Poincare Embeddings for Learning Hierarchical Representations
+
+Forked project of the PyTorch implementation of [[https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations][Poincaré Embeddings for Learning Hierarchical Representations]]
+
+** Installation
+Simply clone this repository via
+#+BEGIN_SRC sh
+  git clone https://github.com/ikiraschielke/poincare-multi-parent-embeddings
+  cd poincare-multi-parent-embeddings
+  conda env create -f environment.yml
+  source activate poincare-parents
+  python setup.py build_ext --inplace
+#+END_SRC
+
+
+** Example: Embedding WordNet Living Things
+
+For a quick start, the transitive closure of the WordNet living things subtree is already given.
+To embed the living subtree in the reconstruction setting (i.e., without missing data), go to the root directory of the project and run
+#+BEGIN_SRC sh
+    ./main.sh
+#+END_SRC
+
+This shell script includes parameter settings for various dimensionality settings for the living subtree and saves the trained model as =wordnet_living_closure_dim"$DIM"_"$EPOCHS".pth=
+
+** Data Processing
+
