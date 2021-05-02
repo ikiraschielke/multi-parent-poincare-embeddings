@@ -1,0 +1,48 @@
+DONE
+ADJUST PATHS IN JUPYTER NOTEBOOKS AND IN CUSTOM CODE
+
+
+
+THINK OF WORKFLOW
+WHICH INCLUDES / NAMES RELEVANT JUPYTER NOTEBOOKS
+
+MAKE IT RUN IN SHELL?
+
+workflow:
+
+-download wordnet
+-save living-things subset
+-compute transitive closure of living things
+DONE
+- FIX ENVIRONMENT
+
+-train on various dimensions
+-save weights!
+-plot both in one run
+    -use those weights for plotting the whole tree
+    -use those weights to plot subtree with relevant parents
+
+one button click to do EVERYTHING!
+
+do this in shell, then in jupyter notebook  
+
+ADVANCED WORKFLOW
+
+
+-download wordnet
+-save living-things subset
+-INCLUSION OF NODE DELETION 
+-compute transitive closure of living things
+-train on various dimensions
+-save weights!
+-FOR PLOTTING INCLUSION OF TARGET-PLOT LIST
+-plot both in one run
+    -use those weights for plotting the whole tree
+
+    -use those weights to plot subtree with relevant parents
+
+
+
+
+
+

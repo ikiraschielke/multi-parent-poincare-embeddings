@@ -1,0 +1,18 @@
+mammal.hyponyms()
+children
+[Synset('female_mammal.n.01'), Synset('fossorial_mammal.n.01'), Synset('metatherian.n.01'), Synset('placental.n.01'), Synset('prototherian.n.01'), Synset('tusker.n.01')]
+
+grandchilfren
+[Synset('damaraland_mole_rat.n.01'), Synset('naked_mole_rat.n.01'),Synset('marsupial.n.01'), Synset('aardvark.n.01'), Synset('aquatic_mammal.n.01'), Synset('bat.n.01'), Synset('buck.n.05'), Synset('bull.n.11'), Synset('carnivore.n.01'), Synset('cow.n.02'), Synset('digitigrade_mammal.n.01'), Synset('doe.n.02'), Synset('edentate.n.01'), Synset('fissipedia.n.01'), Synset('flying_lemur.n.01'), Synset('hyrax.n.01'), Synset('insectivore.n.01'), Synset('lagomorph.n.01'), Synset('livestock.n.01'), Synset('pachyderm.n.01'), Synset('pangolin.n.01'), Synset('plantigrade_mammal.n.01'), Synset('primate.n.02'), Synset('proboscidean.n.01'), Synset('rodent.n.01'), Synset('tree_shrew.n.01'), Synset('unguiculata.n.01'), Synset('unguiculate.n.01'), Synset('ungulata.n.01'), Synset('ungulate.n.01'), Synset('yearling.n.03'),Synset('monotreme.n.01')
+
+]
+(from marsupial, carnicore ad ungulate)
+grand grand
+
+[Synset('bandicoot.n.01'), Synset('dasyurid_marsupial.n.01'), Synset('kangaroo.n.01'), Synset('opossum.n.02'), Synset('opossum_rat.n.01'), Synset('phalanger.n.01'), Synset('pouched_mole.n.01'), Synset('wombat.n.01'), Synset('bear.n.01'), Synset('canine.n.02'), Synset('feline.n.01'), Synset('fissiped_mammal.n.01'), Synset('musteline_mammal.n.01'), Synset('procyonid.n.01'), Synset('viverrine.n.01'), Synset('dinocerate.n.01'), Synset('even-toed_ungulate.n.01'), Synset('odd-toed_ungulate.n.01')]
+
+
+marsupial, rodent, ungulate carnivore
+
+
+
